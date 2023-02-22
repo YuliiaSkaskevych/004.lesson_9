@@ -1,5 +1,5 @@
 let numOrStr = prompt('Input number or string');
-console.log(numOrStr)
+console.log(numOrStr);
 
 switch (true) {
     case (numOrStr === null):
